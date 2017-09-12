@@ -1,0 +1,5 @@
+Hero Started Journey With 500 HP!
+Hero defeated Mutant with 148 HP remaining
+Hero defeated ZombieDog with 68 HP remaining
+Zombie defated Hero
+Hero is Dead!! Last seen at position 1687!!
